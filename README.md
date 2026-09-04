@@ -2,6 +2,6 @@
 Easy P2P Ride Sharing 
 
 Kelompokduasatu \
-Ketua Kelompok: \
+Ketua Kelompok: Rian Prasetya Munaji - 24/545573/TK/60702\
 Anggota 1: Rakan Hendian Ramadhan - 24/540158/TK/59909 \
 Anggota 2: Stella Florencia Doulim - 24/542739/TK/60285
